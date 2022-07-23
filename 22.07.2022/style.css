@@ -14,7 +14,7 @@ nav#cabecalho {text-align:right;
         }
 
         nav#cabecalho a{
-            color:white;
+            color:#ccda13;
                     }				   
                     
  nav#menu ul {list-style:none;
@@ -34,7 +34,7 @@ nav#cabecalho {text-align:right;
                 left:0;
                 top:30px;
                 display:none;
-                background:#666;
+                background:#6731ca;
                 }
  nav#menu ul li ul li{background:rgba(102,102,102,0.5);
                  width:176px;}
@@ -45,7 +45,7 @@ nav#cabecalho {text-align:right;
                 border:1px #CCC;
          
                 display:block;
-                color:#eca41a;
+                color:hsl(135, 85%, 51%);
                 
                 }
  
@@ -56,3 +56,9 @@ nav#cabecalho {text-align:right;
                 display:block;
                 color:white;
                 }
+
+
+div#logo {
+        background-color: rgb(29, 29, 29);
+
+}
