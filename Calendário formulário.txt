@@ -1,1 +1,5 @@
 codigo do calendário no formulário
+
+https://pt.stackoverflow.com/questions/480038/colocar-os-items-do-menu-dentro-da-div
+
+https://www.codinglabweb.com/
